@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/CV2D.LSP",
+    "commands": [
+      "CV2D"
+    ],
+    "title": "聚合線轉換與標高歸零",
+    "category": "幾何處理",
+    "manual": "README.md"
+  }
+]
